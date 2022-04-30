@@ -1,0 +1,71 @@
+:Monkey: seed=1648050778531 count=100
+:AllowPackage: com.ss.android.article.video
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 50.0%
+//   1: 5.8823533%
+//   2: 1.1764706%
+//   3: 8.82353%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 14.705883%
+//   7: 8.82353%
+//   8: 1.1764706%
+//   9: 1.1764706%
+//   10: 0.5882353%
+//   11: 7.647059%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.ss.android.article.video/.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.ss.android.article.video/.activity.SplashActivity } in package com.ss.android.article.video
+:Sending Touch (ACTION_DOWN): 0:(647.0,427.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(640.9753,429.31848)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(728.0,1707.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(728.0183,1714.0189)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1609.0,3367.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1594.7548,3366.0698)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1807.0,1884.0)
+:Sending Touch (ACTION_UP): 0:(1807.684,1881.8774)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,2244.0)
+:Sending Touch (ACTION_UP): 0:(1072.0529,2250.1868)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(106.0,3139.0)
+:Sending Touch (ACTION_UP): 0:(97.97594,3145.1604)
+:Sending Touch (ACTION_DOWN): 0:(1428.0,2595.0)
+:Sending Touch (ACTION_UP): 0:(1425.3287,2585.8674)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,2253.0)
+:Sending Touch (ACTION_UP): 0:(1077.9515,2255.299)
+:Sending Touch (ACTION_DOWN): 0:(919.0,3751.0)
+:Sending Touch (ACTION_UP): 0:(925.5395,3738.109)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,1794.0)
+:Sending Touch (ACTION_UP): 0:(668.6819,1798.122)
+:Sending Touch (ACTION_DOWN): 0:(505.0,2637.0)
+:Sending Touch (ACTION_UP): 0:(506.3249,2627.9226)
+:Sending Touch (ACTION_DOWN): 0:(1495.0,1751.0)
+:Sending Touch (ACTION_UP): 0:(1483.1858,1765.1118)
+:Sending Touch (ACTION_DOWN): 0:(1686.0,960.0)
+:Sending Touch (ACTION_UP): 0:(1686.8068,961.35126)
+:Sending Touch (ACTION_DOWN): 0:(1878.0,3353.0)
+:Sending Touch (ACTION_UP): 0:(1878.2114,3339.5894)
+:Sending Touch (ACTION_DOWN): 0:(659.0,1315.0)
+:Sending Touch (ACTION_UP): 0:(658.2434,1304.8373)
+:Sending Touch (ACTION_DOWN): 0:(1879.0,1786.0)
+:Sending Touch (ACTION_UP): 0:(1878.9856,1774.3312)
+:Sending Touch (ACTION_DOWN): 0:(19.0,2216.0)
+:Sending Touch (ACTION_UP): 0:(18.512041,2201.0684)
+:Sending Touch (ACTION_DOWN): 0:(972.0,3374.0)
+:Sending Touch (ACTION_UP): 0:(977.9464,3373.761)
+:Sending Touch (ACTION_DOWN): 0:(133.0,1930.0)
+Events injected: 100
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=6 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=36825ms (0ms mobile, 0ms wifi, 36825ms not connected)
+// Monkey finished
